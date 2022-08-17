@@ -1,0 +1,12 @@
+{
+  "suggest.noselect": false,
+  "html.autoClosingTags": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "dart",
+    "json",
+    "html",
+    "ruby",
+    "javascript",
+    "typescript"
+  ]
+}
