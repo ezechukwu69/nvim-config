@@ -2,6 +2,7 @@ local M = {}
 
 local servers = {
         --dartls = {},
+        tailwindcss = {},
         html = {},
         emmet_ls = {},
         sumneko_lua = {},
